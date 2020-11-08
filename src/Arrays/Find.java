@@ -16,16 +16,12 @@ public class Find {
         if (matrix == null || matrix.length == 0) {
             return false;
         }
-        int m = matrix.length, n = matrix[0].length; // 二维数组右上角那个元素为起点
-        int row = 0, col = n - 1;
-        while (row < m && col >= 0) {
-            if (matrix[row][col] > target) {
-                col--;
-            } else if (matrix[row][col] < target) {
-                row++;
-            } else {
-                return true;
-            }
+        int row = 0;
+        int col = matrix[0].length - 1;
+        while (row < matrix.length && col >= 0) {
+            if (matrix[row][col] > target) col--;
+            else if (matrix[row][col] < target) row++;
+            else return true;
         }
         return false;
     }
