@@ -2,7 +2,7 @@
 
 [一、数组类题](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/array.md)
 
-二、链表类题
+[二、链表类题](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/linkedList.md)
 
 三、二叉树类题
 

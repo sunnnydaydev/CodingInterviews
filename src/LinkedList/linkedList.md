@@ -1,7 +1,7 @@
-###### 1、二维数组的查找
+###### 1、从尾到头打印链表
 >[题目](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
 >
->[练习](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/Find.java)
+>[练习](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/ReversePrint.java)
 
 ```java
     public int[] reversePrint(ListNode head) {
