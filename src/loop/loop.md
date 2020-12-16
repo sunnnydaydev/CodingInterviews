@@ -2,7 +2,7 @@
 
 >[题目](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
 >
-> [练习]()
+> [练习](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/loop/Fibonacci.java)
 >
 
 ```java
