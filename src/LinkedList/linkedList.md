@@ -106,3 +106,31 @@
        }
 
 ```
+
+
+###### 4、合并两个排序的链表
+>[题目](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
+>
+>[练习](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/ReverseLinkedList.java)
+
+```java
+       // 递归解法
+        public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+            //l1,l2 都为空
+            //l1，l2 有一个为空
+            if (l1 == null) return l2;
+            if (l2 == null) return l1;
+
+            // l1,l2 都不为空
+            ListNode mergeHead = null;
+            if (l1.val <= l2.val) {
+                mergeHead = l1;
+                mergeHead.next = mergeTwoLists(l1.next, l2);
+            } else {
+                mergeHead = l2;
+                mergeHead.next = mergeTwoLists(l1, l2.next);// 参数位置无所谓
+            }
+            return mergeHead;
+        }
+
+```
