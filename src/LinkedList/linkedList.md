@@ -111,7 +111,7 @@
 ###### 4、合并两个排序的链表
 >[题目](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
 >
->[练习](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/ReverseLinkedList.java)
+>[练习](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/MergeTwoLinkedList.java)
 
 ```java
        // 递归解法
