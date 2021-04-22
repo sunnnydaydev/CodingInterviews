@@ -10,7 +10,6 @@ class Add {
         System.out.println("test:"+add(50,50));
         System.out.println("test:"+add(-1,0));
         System.out.println("test:"+add(-1,5));
-
     }
 
 
