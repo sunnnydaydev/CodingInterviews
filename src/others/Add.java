@@ -22,7 +22,6 @@ class Add {
     static int add(int a, int b) {
         int step1;
         int step2;
-
         while (b != 0) {
             step1 = a ^ b;// step1
             step2 = (a & b) << 1; // step2 (一直左移数最终会变为0)
