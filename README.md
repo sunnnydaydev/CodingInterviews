@@ -1,4 +1,4 @@
-# 《剑指offer》 刷题
+# LeetCode《剑指offer》 专项
 
 [一、数组&字符串类题](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/array.md)
 
