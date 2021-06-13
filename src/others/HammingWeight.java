@@ -37,11 +37,11 @@ public class HammingWeight {
      * 链接：https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof
      * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
      */
-    public static List<Integer> hammingWeight(int n) {
+    public static int[] hammingWeight(int n) {
         int maxValue = (int) (Math.pow(10, n) - 1);
-        List<Integer> list = new ArrayList<>();
+        int[] list = new int[maxValue];
         for (int i = 1; i <= maxValue; i++) {
-            list.add(i);
+            list[i-1] = i;
         }
         return list;
     }
