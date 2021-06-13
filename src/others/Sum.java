@@ -123,5 +123,4 @@ class Sum {
         if (n < 1 || n > 10000) return -1;
         return n * (n + 1) / 2;
     }
-
 }
