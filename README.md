@@ -18,6 +18,8 @@
 
 ###### [10-II、青蛙跳台阶问题](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/loop/FrogJumping.java)
 
+###### [ 17、打印从1到最大的n位数](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/HammingWeight.java)
+
 ###### [22、链表中倒数第k个节点  ](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/KthNodeInLinkedList.java)
 
 ###### [24、反转链表](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/ReverseLinkedList.java)
