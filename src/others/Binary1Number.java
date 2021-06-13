@@ -16,7 +16,6 @@ public class Binary1Number {
     }
 
 
-
     public  int test(int n){
         String binaryNumber = Integer.toBinaryString(n); //输出的为反码
         int count = 0;
