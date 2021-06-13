@@ -1,18 +1,22 @@
 # LeetCode《剑指offer》 专项
 
+### 题库
 
-###### [03数组中重复的数字]()
+[剑指 Offer（第 2 版）题库](https://leetcode-cn.com/problemset/lcof/)
 
-###### [04二维数组的查找](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/Find.java)
+### 练习
 
-###### [05替换空格]()
+###### [03、数组中重复的数字](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/FindRepeatNumber.java)
+
+###### [04、二维数组的查找](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/Find.java)
+
+###### [05、替换空格](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/ReplaceSpace.java)
 
 
+###### [10-I、斐波那契数列](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/loop/Fibonacci.java)
 
-[二、链表类题](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/linkedList.md)
+###### [10-II、青蛙跳台阶问题](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/loop/FrogJumping.java)
 
-[三、递归&循环](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/loop/loop.md)
+###### [64、求1+2+…+n](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/Sum.java)
 
-[64求1+2+…+n](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/Sum.java)
-
-[65不用加减乘除实现加法](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/Add.java)
+###### [65、不用加减乘除实现加法](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/Add.java)
