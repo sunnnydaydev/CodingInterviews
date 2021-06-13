@@ -2,6 +2,8 @@ package others;
 
 /**
  * Created by zb on 2021/4/21 9:31
+ *
+ * 不用加减乘除做加法
  */
 class Add {
     public static void main(String[] args) {

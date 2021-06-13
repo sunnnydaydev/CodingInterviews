@@ -12,10 +12,17 @@
 
 ###### [05、替换空格](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/ReplaceSpace.java)
 
+###### [06、从尾到头打印链表](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/ReversePrint.java)
 
 ###### [10-I、斐波那契数列](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/loop/Fibonacci.java)
 
 ###### [10-II、青蛙跳台阶问题](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/loop/FrogJumping.java)
+
+###### [22、链表中倒数第k个节点  ](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/KthNodeInLinkedList.java)
+
+###### [24、反转链表](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/ReverseLinkedList.java)
+
+###### [25、合并两个排序的链表](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/MergeTwoLinkedList.java)
 
 ###### [64、求1+2+…+n](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/Sum.java)
 

@@ -2,6 +2,8 @@ package others;
 
 /**
  * Create by SunnyDay on 2021/06/13 09:27
+ *
+ * 二进制1的个数
  */
 public class Binary1Number {
 
