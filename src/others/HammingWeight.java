@@ -45,5 +45,4 @@ public class HammingWeight {
         }
         return list;
     }
-
 }
