@@ -61,6 +61,7 @@ class DeleteNode {
     public ListNode deleteNode(ListNode head, int val) {
 
         ListNode dummyHead  = new ListNode(0, head); //1、定义要删除节点的前一节点，默认为虚拟头结点。指向头结点。
+
         ListNode prev = dummyHead; // 谨记：头结点不能操作。创建副本。
 
         while (prev.next != null) { //2、查找要删除节点的前一节点。
