@@ -20,7 +20,7 @@
 
 ###### [ 17、打印从1到最大的n位数](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/HammingWeight.java)
 
-###### [18、删除链表的节点]()
+###### [18、删除链表的节点](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/DeleteNode.java)
 
 ###### [22、链表中倒数第k个节点  ](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/KthNodeInLinkedList.java)
 
