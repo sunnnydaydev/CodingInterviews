@@ -36,5 +36,6 @@ class GetIntersectionNode {
             nodeB = nodeB == null ? headA : nodeB.next;
         }
         return nodeA;
+
     }
 }
