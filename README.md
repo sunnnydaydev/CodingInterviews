@@ -42,6 +42,8 @@
 
 ###### [50、第一个只出现一次的字符]
 
+###### [52、两个链表的第一个公共节点]
+
 ###### [64、求1+2+…+n](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/Sum.java)
 
 ###### [65、不用加减乘除实现加法](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/Add.java)
