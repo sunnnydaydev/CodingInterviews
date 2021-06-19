@@ -37,4 +37,5 @@ class GetIntersectionNode {
         }
         return nodeA;
     }
+
 }
