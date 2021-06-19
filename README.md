@@ -40,7 +40,7 @@
 
 ###### [40、最小的k个数]
 
-###### []
+###### [50、第一个只出现一次的字符]
 
 ###### [64、求1+2+…+n](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/Sum.java)
 
