@@ -22,27 +22,29 @@
 
 ###### [18、删除链表的节点](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/DeleteNode.java)
 
+###### [21. 调整数组顺序使奇数位于偶数前面](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/Exchange.java)
+
 ###### [22、链表中倒数第k个节点  ](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/KthNodeInLinkedList.java)
 
 ###### [24、反转链表](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/ReverseLinkedList.java)
 
 ###### [25、合并两个排序的链表](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/MergeTwoLinkedList.java)
 
-###### [27、二叉树的镜像]
+###### [27、二叉树的镜像](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/tree/MirrorTree.java)
 
-###### [28、对称的二叉树]
+###### [28、对称的二叉树](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/tree/IsSymMetric.java)
 
-###### [30、包含min函数的栈]
+###### [30、包含min函数的栈](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/stack/MinStack.java)
 
-###### [32 - I. 从上到下打印二叉树]
+###### [32 - I. 从上到下打印二叉树](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/tree/LevelOrder.java)
 
-###### [39、数组中出现次数超过一半的数字]
+###### [39、数组中出现次数超过一半的数字](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/MajorityElement.java)
 
-###### [40、最小的k个数]
+###### [40、最小的k个数](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/GetLeastNum.java)
 
 ###### [50、第一个只出现一次的字符]
 
-###### [52、两个链表的第一个公共节点]
+###### [52、两个链表的第一个公共节点](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/GetIntersectionNode.java)
 
 ###### [64、求1+2+…+n](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/Sum.java)
 
