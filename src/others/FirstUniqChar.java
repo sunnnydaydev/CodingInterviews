@@ -58,4 +58,5 @@ class FirstUniqChar {
         }
         return list.size() == 0 ? c : list.get(0);
     }
+
 }
