@@ -1,7 +1,6 @@
 package others;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 /**
  * Created by zb on 2021/6/16 17:16
@@ -28,26 +27,35 @@ import java.util.Map;
 class FirstUniqChar {
 
     public static void main(String[] args) {
-        System.out.println("test1:"+firstUniqChar("abcdefgg"));
-        System.out.println("test2:"+firstUniqChar("leetCode"));
+        System.out.println("test1:" + firstUniqChar("abcdefgg"));
+        System.out.println("test2:" + firstUniqChar("leetCode"));
     }
 
 
-    // todo 解法有误
     public static char firstUniqChar(String s) {
         char c = ' ';
         if (s == null) return c;
 
-        Map<Character, Character> map = new HashMap<>();
+        Map<Character, Integer> map = new LinkedHashMap<>();  //这里不能使用HashMap，hashMap取元素时无序的。
         for (int i = 0; i < s.length(); i++) {
             char currentChar = s.charAt(i);
             if (map.containsKey(currentChar)) {
 
-                continue;
+                int count = map.get(currentChar) + 1;
+                map.put(currentChar, count);
+
             } else {
-                map.put(currentChar, currentChar);
+                map.put(currentChar, 1);
             }
         }
-        return c;
+
+        // 取出现1此的元素，放入list。
+        List<Character> list = new ArrayList<>();
+        for (Character character : map.keySet()) {
+            if (map.get(character) == 1) {
+                list.add(character);
+            }
+        }
+        return list.size() == 0 ? c : list.get(0);
     }
 }
