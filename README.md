@@ -14,9 +14,9 @@
 
 ###### [06、从尾到头打印链表](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/ReversePrint.java)
 
-###### [10-I、斐波那契数列](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/loop/Fibonacci.java)
+###### [10-I、斐波那契数列](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/recursion/Fibonacci.java)
 
-###### [10-II、青蛙跳台阶问题](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/loop/FrogJumping.java)
+###### [10-II、青蛙跳台阶问题](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/recursion/FrogJumping.java)
 
 ###### [ 17、打印从1到最大的n位数](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/HammingWeight.java)
 
