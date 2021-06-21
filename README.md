@@ -42,7 +42,7 @@
 
 ###### [40、最小的k个数](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/GetLeastNum.java)
 
-###### [50、第一个只出现一次的字符]
+###### [50、第一个只出现一次的字符](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/FirstUniqChar.java)
 
 ###### [52、两个链表的第一个公共节点](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/GetIntersectionNode.java)
 
