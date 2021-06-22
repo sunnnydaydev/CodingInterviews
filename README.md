@@ -46,6 +46,17 @@
 
 ###### [52、两个链表的第一个公共节点](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/GetIntersectionNode.java)
 
+###### [53、0～n-1中缺失的数字]
+
+###### [53 - I. 在排序数组中查找数字 I]
+
+###### [54、二叉搜索树的第k大节点]
+
+###### [55、二叉树的深度]
+
+###### [57、和为s的两个数字]
+
+
 ###### [64、求1+2+…+n](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/Sum.java)
 
 ###### [65、不用加减乘除实现加法](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/Add.java)
