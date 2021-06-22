@@ -68,7 +68,7 @@ class Search {
      * 1、首先采取二分定位
      * 2、找到目标元素后，循环查找左右区间的元素。
      *
-     * todo :[1] 1 数组越界
+     * todo :[1] 1 数组越界 问题 待处理！
      */
     private static int searchInLoopPlus(int nums[], int target) {
         int count = 0;
