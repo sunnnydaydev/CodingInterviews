@@ -3,6 +3,9 @@ package Arrays;
 /**
  * Created by zb on 2021/6/21 17:29
  * <p>
+ *
+ *剑指 Offer 53 - I. 在排序数组中查找数字 I
+ *
  * 统计一个数字在排序数组中出现的次数。
  * <p>
  *  
@@ -31,21 +34,21 @@ class Search {
         int[] arr = new int[]{5, 7, 7, 8, 8, 10};
         int[] arr1 = new int[]{5, 7, 7, 8, 8, 10};
 
+        int[] arr3 = new int[]{1};
+        int[] arr4 = new int[]{2,2};
+
         System.out.println("searchInLoop:" + searchInLoop(arr, 8));
         System.out.println("searchInLoop:" + searchInLoop(arr1, 6));
 
         System.out.println("searchInLoopPlus:" + searchInLoopPlus(arr, 8));
         System.out.println("searchInLoopPlus:" + searchInLoopPlus(arr1, 6));
+
+        System.out.println("searchInLoopPlus:" + searchInLoopPlus(arr3, 1));
+        System.out.println("searchInLoopPlus:" + searchInLoopPlus(arr3, 2));
+
+        System.out.println("searchInLoopPlus:" + searchInLoopPlus(arr4, 2));
     }
 
-    /**
-     * 排序数组，可以采取二分法。
-     */
-    private int search(int nums[], int target) {
-        int count = 0;
-        if (nums == null || nums.length == 0) return count;
-        return 0;
-    }
 
     /**
      * 非最优解，暴力循环。
@@ -67,8 +70,6 @@ class Search {
      * <p>
      * 1、首先采取二分定位
      * 2、找到目标元素后，循环查找左右区间的元素。
-     *
-     * todo :[1] 1 数组越界 问题 待处理！
      */
     private static int searchInLoopPlus(int nums[], int target) {
         int count = 0;
@@ -99,14 +100,14 @@ class Search {
         int leftCount = 0;// 左边区间总数
 
         int rightIndex = middle + 1; // 右区间索引
-        int leftIndex = middle -1; // 左区间索引
+        int leftIndex = middle  -1; // 左区间索引
 
-        while (rightIndex <= nums.length - 1 && nums[rightIndex] == target) {
+        while (rightIndex < nums.length - 1 && nums[rightIndex] == target) { //rightIndex < nums.length - 1 注意边界，不能包括
             rightIndex++;
             rightCount++;
         }
 
-        while (leftCount >= 0 && nums[leftIndex] == target) {
+        while (leftIndex > 0 && nums[leftIndex] == target) { // 注意边界，不能包括
             leftIndex--;
             leftCount++;
         }
