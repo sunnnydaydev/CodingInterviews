@@ -46,7 +46,7 @@
 
 ###### [52、两个链表的第一个公共节点](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/GetIntersectionNode.java)
 
-###### [53 - I、 在排序数组中查找数字 I] 
+###### [53 - I、 在排序数组中查找数字 I]  
 
 ###### [53- II、0～n-1中缺失的数字](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/MissingNumber.java)
 
