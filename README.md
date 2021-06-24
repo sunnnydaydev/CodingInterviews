@@ -22,7 +22,7 @@
 
 ###### [18、删除链表的节点](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/DeleteNode.java)
 
-###### [21. 调整数组顺序使奇数位于偶数前面](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/Exchange.java)
+###### [21、调整数组顺序使奇数位于偶数前面](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/Exchange.java)
 
 ###### [22、链表中倒数第k个节点  ](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/KthNodeInLinkedList.java)
 
@@ -46,7 +46,7 @@
 
 ###### [52、两个链表的第一个公共节点](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/LinkedList/GetIntersectionNode.java)
 
-###### [53 - I、 在排序数组中查找数字 I]   
+###### [53 - I、在排序数组中查找数字 I]   
 
 ###### [53- II、0～n-1中缺失的数字](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/MissingNumber.java)
 
@@ -57,6 +57,14 @@
 ###### [57、和为s的两个数字](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/TwoSum.java)
 
 ###### [57 - II、和为s的连续正数序列](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/FindContinuousSequence.java)
+
+###### [58 - I、翻转单词顺序](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/ReverseWords.java)
+
+###### [58 - II、左旋转字符串](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/ReverseLeftWords.java)
+
+###### [61、扑克牌中的顺子](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/IsStraight.java)
+
+###### [62、圆圈中最后剩下的数字](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/Arrays/LastRemaining.java)
 
 ###### [64、求1+2+…+n](https://github.com/sunnnydaydev/CodingInterviews/blob/master/src/others/Sum.java)
 
